@@ -1,9 +1,17 @@
 site_name: NEW Insight Analytics
 site_url: https://awault.github.io/New_Insight
+copyright: Copyright &copy 2024 | New Insight Analytics
+extra:
+  generator: false
+
 theme:
   name: material
   palette: 
     scheme: default
-    primary: blue
+    primary: custom
     accent: deep purple
-  
+  logo: assets/Big Logo.png
+ 
+extra_css:
+  - stylesheets/extra.css  
+
