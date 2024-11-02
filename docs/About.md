@@ -1,4 +1,4 @@
-# Bio
+# About
 
-Here is where you should insert info about your bio...
+Insert Bio Here...
 

@@ -1,6 +1,6 @@
-site_name: NEW Insight Analytics
+site_name: NEW INSIGHT ANALYTICS
 site_url: https://awault.github.io/New_Insight
-copyright: Copyright &copy 2024 | New Insight Analytics
+copyright: Copyright &copy 2024 | New Insight Analytics, LLC
 extra:
   generator: false
 
@@ -14,4 +14,7 @@ theme:
  
 extra_css:
   - stylesheets/extra.css  
+
+# Removes the default plugins such as search
+plugins: []
 
