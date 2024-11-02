@@ -1,0 +1,28 @@
+/* Changes Color of Header */
+:root {
+    --md-primary-fg-color:        #054f70;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+
+  /* Removes Logo Padding */
+  .md-header__button.md-logo {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  /* Sets Size of Logo */
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 125px;
+    width: 125px;
+  }
+
+  .md-header__title {
+    font-size: 2rem; /* Adjust to your preferred size */
+    font-weight: normal; /* Optional: Make it bold */
+    font-family: 'Open Sans',sans-serif;
+    letter-spacing: 0.1em;
+}
